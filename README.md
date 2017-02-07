@@ -14,4 +14,4 @@ Currently we provide a reference implementation as a Jupyter notebook. If
 you make something better or more user friendly, make a pull request and
 we'll be eternally grateful.
 
-[View reference notebook](blob/master/MemProtMD%20API%20Documentation.ipynb)
+[View reference notebook](MemProtMD%20API%20Documentation.ipynb)
