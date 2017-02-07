@@ -8,3 +8,10 @@ We recommend using [Postman](https://www.getpostman.com/) to check that
 the API methods shown here behave as expected. Postman can also output
 code snippets in a number of languages for pipeline applications. examples
 in this guide use Python's Requests library.
+
+### User guide
+Currently we provide a reference implementation as a Jupyter notebook. If
+you make something better or more user friendly, make a pull request and
+we'll be eternally grateful.
+
+[View reference notebook](blob/master/MemProtMD%20API%20Documentation.ipynb)
